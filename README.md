@@ -1,2 +1,3 @@
-# music-behaviour
+# Spotify Song Analysis
+
 HackZurich
